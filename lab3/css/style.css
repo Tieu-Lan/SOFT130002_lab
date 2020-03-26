@@ -1,0 +1,196 @@
+body {
+    background-color: #ececec;
+}
+
+header * {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 0 20px;
+    background-color: #fff;
+}
+
+header:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.header img {
+    margin:0 50px;
+    float: left;
+}
+
+.nav {
+    list-style: none;
+    width: 600px;
+    overflow: hidden;
+    float: left;
+}
+
+.nav li {
+    float: left;
+    width: 33.3%;
+    text-align: center;
+}
+
+.nav a {
+    display: block;
+    width: 100%;
+    height: 38px;
+    padding-top: 17px;
+    text-decoration: none;
+    color: grey;
+    font-weight: bold;
+}
+
+.nav a:hover {
+    background-color: skyblue;
+}
+
+.register {
+    margin-right: 50px;
+    float: right;
+}
+
+.register a {
+    color: black;
+    text-decoration: none;
+}
+
+.register a:hover {
+    color: grey;
+}
+
+#user{
+    margin-left: 100px;
+    float: left;
+}
+
+.body1 {
+    margin: 10px 150px;
+    background-color: #fff;
+}
+
+#recommend {
+    text-align: center;
+    margin-bottom: 10px;
+    height: 30px;
+    background-color: skyblue;
+}
+
+.side {
+    padding-right: 20px;
+    border-style: solid;
+    border-color: grey;
+    margin-top: 50px;
+    margin-right: 50px;
+    text-decoration: none;
+    height: 190px;
+    width: 100px;
+    float: right;
+    overflow: hidden;
+    list-style: none;
+    padding-top: 15px;
+}
+
+.body li {
+    list-style: none;
+}
+
+.side a {
+    display: block;
+    width: 100%;
+    height: 38px;
+    padding-top: 13px;
+    text-decoration: none;
+    color: grey;
+    font-weight: bold;
+}
+
+.side a:hover {
+    color: skyblue;
+}
+
+.text {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.sect {
+    border-bottom-color: grey;
+    margin: 20px auto;
+}
+
+#choose {
+    color: skyblue;
+}
+
+.line {
+    margin: 0 20px;
+}
+
+header nav {
+    float: left;
+    background-color: #fff;
+    margin-left: 50px;
+}
+
+header h3 {
+    margin-top: 14px;
+    margin-right: 50px;
+    float: right;
+    color: black;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: grey;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+}
+
+#head {
+    margin-top: 0;
+    background-color: skyblue;
+    text-align: center;
+}
+
+.body2 {
+    width: 560px;
+    margin: 10px auto;
+    background-color: #fff;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+.text {
+    margin: 0 20px;
+}
+
+.body2 textarea {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+input {
+    padding: 5px;
+    margin: 5px;
+    border: #56707f solid 1px;
+    border-radius: 3px;
+    color: #000000
+}
+
+input[type="text"], input[type="tel"], input[type="password"] {
+    width: 50%;
+}
+
+input[type="submit"] {
+    width: 100px;
+}
