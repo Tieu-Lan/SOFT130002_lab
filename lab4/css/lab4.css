@@ -1,0 +1,27 @@
+.navbar-brand img {
+    height: 20px;
+    width: 20px;
+
+}
+.navbar {
+    background-color: #beb6a8;
+}
+
+#carousel-example-generic {
+    margin: 10px 10%;
+}
+
+#carousel-example-generic img {
+    width: 100%;
+}
+footer{
+    background-color: #beb6a8;
+    padding-top: 20px;
+}
+footer a{
+    color: black;
+}
+
+footer .copyright{
+    text-align: center;
+}
