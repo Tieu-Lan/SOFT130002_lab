@@ -3,6 +3,10 @@
 
 ![alt 网页效果图](images/ADF83FD6149DFA5DD69489200B8814E6.jpg)
 
+* GitHub截图
+
+![alt 网页效果图](images/8F81AA2BB0BBB9C87C1D8F1BBA95AF00.jpg)
+
 * 解决方案：
 
     * showWindowHref:  
