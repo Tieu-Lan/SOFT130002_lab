@@ -13,6 +13,5 @@
     通过将PoorCountry对象的原型prototype设为Country的对象实现继承；
     * Object.create方式继承：  
     相当于将传入的Country对象作为DevelopedCountry对象的原型
-3. Map、Set、Array使用区别
-    Map与对象相似,但是其键可以是任意值，而且在检索和删减上更加便捷；
-    Set是与Array相似，但Set中的元素不会重复。
+3. Map、Set、Array使用区别  
+    Map与对象相似,但是其键可以是任意值，而且在检索和删减上更加便捷；Set是与Array相似，但Set中的元素不会重复。
