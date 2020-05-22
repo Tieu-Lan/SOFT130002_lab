@@ -1,0 +1,25 @@
+h3 {
+    background-color: #e1e1ee;
+    text-align: center;
+}
+
+body {
+    width: 700px;
+    margin: 0px auto;
+}
+
+#bd {
+    padding-top: 1px;
+    padding-bottom: 50px;
+    background-color: #e1e1ee;
+}
+
+table {
+    margin: 50px auto;
+    width: 540px;
+}
+
+th, td {
+    width: 180px;
+}
+
