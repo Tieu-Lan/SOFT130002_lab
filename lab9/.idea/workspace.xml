@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f65709e-267a-4a51-9a0e-a0b255c643e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="376b8e56-e6d6-490e-8f20-8f991cef44c0" name="Tieu" port="63342" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1cLyknyE8sMauOTpnKXqbflehQf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.lab9">
+    <configuration name="lab9-exercise0.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:80/lab9-exercise0.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="lab9" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="63342">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="lab9-exercise0.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lab9-exercise0.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="lab9-exercise1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lab9-exercise1.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.lab9-exercise0.php" />
+      <item itemvalue="PHP Built-in Web Server.lab9" />
+      <item itemvalue="PHP Script.lab9-exercise1.php" />
+      <item itemvalue="PHP Script.lab9-exercise0.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.lab9-exercise0.php" />
+        <item itemvalue="PHP Script.lab9-exercise1.php" />
+        <item itemvalue="JavaScript Debug.lab9-exercise0.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f65709e-267a-4a51-9a0e-a0b255c643e6" name="Default Changelist" comment="" />
+      <created>1590322313744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590322313744</updated>
+      <workItem from="1590322315024" duration="698000" />
+      <workItem from="1590368075727" duration="10207000" />
+      <workItem from="1590460195291" duration="9002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="251" key="#CLI_Interpreters" timestamp="1590418711583">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="534" y="251" key="#CLI_Interpreters/0.0.1680.1050@0.0.1680.1050" timestamp="1590418711583" />
+    <state x="401" y="257" key="#Servers" timestamp="1590418911143">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="401" y="257" key="#Servers/0.0.1680.1050@0.0.1680.1050" timestamp="1590418911143" />
+    <state x="867" y="404" key="#Web_Browsers" timestamp="1590414569661">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="867" y="404" key="#Web_Browsers/0.0.1680.1050@0.0.1680.1050" timestamp="1590414569661" />
+    <state x="351" y="209" width="1071" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590467319894">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="351" y="209" width="1071" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590467319894" />
+    <state width="1638" height="238" key="GridCell.Tab.0.bottom" timestamp="1590467277540">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="238" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590467277540" />
+    <state width="1638" height="364" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1590418946578" />
+    <state width="1638" height="238" key="GridCell.Tab.0.center" timestamp="1590467277539">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="238" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590467277539" />
+    <state width="1638" height="364" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1590418946575" />
+    <state width="1638" height="238" key="GridCell.Tab.0.left" timestamp="1590467277538">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="238" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590467277538" />
+    <state width="1638" height="364" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1590418946573" />
+    <state width="1638" height="238" key="GridCell.Tab.0.right" timestamp="1590467277539">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="238" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590467277539" />
+    <state width="1638" height="364" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1590418946577" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1590425726174">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590425726174" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1590425726173">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590425726173" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1590425726172">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590425726172" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1590425726174">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590425726174" />
+    <state width="1638" height="364" key="GridCell.Tab.2.bottom" timestamp="1590419551908">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590419551908" />
+    <state width="1638" height="364" key="GridCell.Tab.2.center" timestamp="1590419551907">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590419551907" />
+    <state width="1638" height="364" key="GridCell.Tab.2.left" timestamp="1590419551907">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590419551907" />
+    <state width="1638" height="364" key="GridCell.Tab.2.right" timestamp="1590419551908">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590419551908" />
+    <state x="298" y="267" key="SettingsEditor" timestamp="1590461502290">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="298" y="267" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590461502290" />
+  </component>
+</project>
